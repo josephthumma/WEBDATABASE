@@ -1,0 +1,42 @@
+[   {
+ 
+  "moviename": "DR.STRANGE ",
+  "rating": "9.89",
+  "date": "2022-05-08T05:00:00.000+00:00",
+  "timing":["9:45pm","11:00pm"],
+  "price": "12.9",
+  "availabilty": true
+},
+{
+  "moviename": "Spider man ",
+  "rating": "9.9",
+  "date": "2022-05-08T05:00:00.000+00:00",
+  "timing":["1:45pm","3:00pm"],
+  "price": "12.9",
+  "availabilty": true
+},
+{
+  "moviename": "Batman",
+  "rating": "8.1",
+  "date": "2022-05-08T05:00:00.000+00:00",
+  "timing":["4:25pm","6:00pm"],
+  "price": "12.9",
+  "availabilty": true
+},
+{
+  "moviename": "superman ",
+  "rating": "8.1",
+  "date": "2022-05-08T05:00:00.000+00:00",
+  "timing":["1:45pm","5:00pm"],
+  "price": "12.9",
+  "availabilty": true
+},
+{
+  "moviename": "DR.STRANGE madness ",
+  "rating": "9.1",
+  "date": "2022-05-08T05:00:00.000+00:00",
+  "timing":["1:45pm","5:00pm"],
+  "price": "12.9",
+  "availabilty": true
+}
+]
